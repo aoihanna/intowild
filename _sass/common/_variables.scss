@@ -1,7 +1,7 @@
 $base: (
-  font-family:            (-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif),
-  font-family-code:       (Menlo, Monaco, Consolas, Andale Mono, lucida console, Courier New, monospace),
-
+  font-family:            ('Vollkorn', 'Noto Serif SC','Source Sans Pro', Helvetica, Arial, sans-serif),
+  font-family-code:       (Menlo,'Source Code Pro', 'Noto Serif SC', Monaco, Andale Mono, lucida console, Courier New, monospace),
+// need to add the font address in  _includes/head/customr.html
   font-size-root:         16px,
   font-size-root-sm:      14px,
 

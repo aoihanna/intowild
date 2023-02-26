@@ -50,3 +50,10 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - title: Docs
+    url: /docs/_docs/en/quick-start
+    key: docs
+  - title: Samples
+    url: /docs/samples.html
+    key: samples
