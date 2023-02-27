@@ -2,17 +2,17 @@ header:
   - title:      Home
     url:        /test/
   - title:      Docs
-    url:        /docs/en/quick-start
+    url:        /docs/_docs/en/quick-start
     key:        docs
   - title:      Samples
-    url:        /samples.html
+    url:        /docs/samples.html
     key:        samples
   - title:      Archive
     url:        /archive.html
   - title:      About
     url:        /about.html
   - title:      GitHub
-    url:        https://github.com/kitian616/jekyll-TeXt-theme
+    url:        https://github.com/aoihanna
 
 
 docs-en:
