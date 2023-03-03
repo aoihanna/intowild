@@ -1,4 +1,5 @@
 ---
+layout: article
 title: 生命中渐渐消失的
 category: Comments
 tags: actionRetro

@@ -1,5 +1,5 @@
 ---
-
+layout: article
 title: 说与做
 category: Comments
 tags: [actionRetro, Mindset]

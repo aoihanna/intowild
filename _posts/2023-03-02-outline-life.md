@@ -1,4 +1,5 @@
 ---
+layout: article
 title: New outline for next stop
 category: Outline
 tags: future
