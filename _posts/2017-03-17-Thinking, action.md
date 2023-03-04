@@ -1,9 +1,10 @@
 ---
-layout: article
+
 title: 说与做
 category: Comments
 tags: [actionRetro, Mindset]
 excerpt_separator: "<!--more-->"
+key: 20170317
 
 ---
 

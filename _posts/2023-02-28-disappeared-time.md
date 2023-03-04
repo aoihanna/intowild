@@ -1,9 +1,9 @@
 ---
-layout: article
 title: 生命中渐渐消失的
 category: Comments
 tags: actionRetro
 excerpt_separator: <!--more-->
+key: 20230228
 ---
 
 昨日一早，同伙伴驱车前往良渚遗迹。风吹皱春水，吹乱头发，绿柳红梅，苕溪芦苇隐约飘荡，天似穹庐，点缀片片风筝。料峭春光和新鲜空气从不会缺席，年年岁岁，我们也逐渐老去。
