@@ -5,7 +5,7 @@ category: Comments
 tags: [actionRetro, Mindset]
 excerpt_separator: "<!--more-->"
 key: 20170317
-
+layout: article
 ---
 
 第一次用vim在自己搭建的github blog上写中文博客。

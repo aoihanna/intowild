@@ -6,6 +6,7 @@ category: Outline
 tags: future
 excerpt_separator: <!--more-->
 key: 20230302
+layout: article
 
 ---
 

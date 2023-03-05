@@ -5,7 +5,6 @@ category: Comments
 tags: actionRetro
 excerpt_separator: <!--more-->
 key: 20230228
-layout: article
 
 ---
 
